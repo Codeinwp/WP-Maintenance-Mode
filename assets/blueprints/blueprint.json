@@ -1,0 +1,15 @@
+{
+  "preferredVersions": {
+    "php": "latest",
+    "wp": "latest"
+  },
+  "features": {
+    "networking": true
+  },
+  "plugins": [
+    "wp-maintenance-mode"
+  ],
+  "login": true,
+  "landingPage": "/wp-admin/admin.php?page=wp-maintenance-mode",
+  "steps": []
+}
